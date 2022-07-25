@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Aditya
 - 👀  I’m interested in web and blockchain development
-- 🌱  I’m currently working on full stack developement
+- 🌱  I’m currently working as full stack developer
 - 📫  How to reach me aditya.patel@nonceblox.com
 
 <!---
