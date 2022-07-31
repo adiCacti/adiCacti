@@ -5,7 +5,7 @@
 #### I'm a Full-Stack Developer working in India (currently Remote).
 
 - 🏢 I'm currently working at **Nonceblox**
-- 🌱 Learning all about **Open Source And Data Structures and Algorithms**
+- 🌱 Learning all about **DSA and Open Source**
 - 🌍 My recent project is **DSA Questions Tracker**
 - ⚡️ Fun fact: I can deadlight 150kgs!
 - ⚙️ I have experience with: <br/>
