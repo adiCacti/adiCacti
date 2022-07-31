@@ -11,8 +11,8 @@
 - 📫 Reach me: patel.aditya2014@gmail.com
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
-[![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:patel.aditya2014@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adityap314/ "Connect on LinkedIn")
+[![Gmail Badge](https://img.shields.io/badge/-Gmail%20Aditya-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:patel.aditya2014@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin%20Aditya-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adityap314/ "Connect on LinkedIn")
 
 <!---
 adiCacti/adiCacti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
