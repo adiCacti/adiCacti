@@ -13,7 +13,7 @@
 
 
 📫 Reach me:<br/>
-[![Gmail](https://img.shields.io/badge/Gmail%20Aditya-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patel.aditya2014@gmail.com "Connect via Email")
+[![Gmail](https://img.shields.io/badge/Gmail-patel.aditya2014@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patel.aditya2014@gmail.com "Connect via Email")
 [![LinkedIn](https://img.shields.io/badge/linkedin%20aditya-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityap314/ "Connect on LinkedIn")
 
 <!---
